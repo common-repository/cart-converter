@@ -1,0 +1,16 @@
+.cc-row-time{
+	width: 75%;
+	float: left;
+}
+.desciprtion{
+	font-size: 14px;
+	font-style: italic;
+	color: #666;
+}
+#sidebar {
+    float: right;
+    width: 25%;
+}
+.widget {
+    padding: 0 1em;
+}
